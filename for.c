@@ -36,7 +36,7 @@ double n1 ,n2;
     }
   
 
-
+ printf("kali");
 
     return 0;
 }
